@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "sax": "^1.2.4",
+    "watchify": "^4.0.0",
+    "xml-js": "^1.6.11"
+  },
+  "scripts": {
+    "watch": "watchify ./script.js -o app.js"
+  },
+  "license": "MIT"
+}
